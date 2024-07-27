@@ -1,68 +1,68 @@
 {
-    "category": [
+    "items": [
         {
             "title": "Animals",
-            "category_image": "https://raw.githubusercontent.com/nadishan2006/paradies-img/main/animals-c.jpg",
+            "image": "https://raw.githubusercontent.com/nadishan2006/paradies-img/main/animals-c.jpg",
             "html": "animals.html"
         },
         {
             "title": "Electronics",
-            "category_image": "https://raw.githubusercontent.com/nadishan2006/paradies-img/main/electric-c.jpg",
+            "image": "https://raw.githubusercontent.com/nadishan2006/paradies-img/main/electric-c.jpg",
             "html": "electric.html"
         },
         {
             "title": "Sports",
-            "category_image": "https://raw.githubusercontent.com/nadishan2006/paradies-img/main/sports-c.jpg",
+            "image": "https://raw.githubusercontent.com/nadishan2006/paradies-img/main/sports-c.jpg",
             "html": "sports.html"
         },
         {
             "title": "Travel",
-            "category_image": "https://raw.githubusercontent.com/nadishan2006/paradies-img/main/travel-c.jpg",
+            "image": "https://raw.githubusercontent.com/nadishan2006/paradies-img/main/travel-c.jpg",
             "html": "travel.html"
         },
         {
             "title": "Food",
-            "category_image": "https://raw.githubusercontent.com/nadishan2006/paradies-img/main/food-c.jpg",
+            "image": "https://raw.githubusercontent.com/nadishan2006/paradies-img/main/food-c.jpg",
             "html": "food.html"
         },
         {
             "title": "Vehicles",
-            "category_image": "https://raw.githubusercontent.com/nadishan2006/paradies-img/main/cars-c.jpg",
+            "image": "https://raw.githubusercontent.com/nadishan2006/paradies-img/main/cars-c.jpg",
             "html": "vehicles.html"
         },
         {
             "title": "Flowers",
-            "category_image": "https://raw.githubusercontent.com/nadishan2006/paradies-img/main/flowers-c.jpg",
+            "image": "https://raw.githubusercontent.com/nadishan2006/paradies-img/main/flowers-c.jpg",
             "html": "flowers.html"
         },
         {
             "title": "Arts",
-            "category_image": "https://raw.githubusercontent.com/nadishan2006/paradies-img/main/arts-c.jpg",
+            "image": "https://raw.githubusercontent.com/nadishan2006/paradies-img/main/arts-c.jpg",
             "html": "arts.html"
         },
         {
             "title": "Photography",
-            "category_image": "https://raw.githubusercontent.com/nadishan2006/paradies-img/main/photography-c.jpg",
+            "image": "https://raw.githubusercontent.com/nadishan2006/paradies-img/main/photography-c.jpg",
             "html": "photography.html"
         },
         {
             "title": "Weather",
-            "category_image": "https://raw.githubusercontent.com/nadishan2006/paradies-img/main/weather-c.jpg",
+            "image": "https://raw.githubusercontent.com/nadishan2006/paradies-img/main/weather-c.jpg",
             "html": "weather.html"
         },
         {
             "title": "Festival",
-            "category_image": "https://raw.githubusercontent.com/nadishan2006/paradies-img/main/festival-c.jpg",
+            "image": "https://raw.githubusercontent.com/nadishan2006/paradies-img/main/festival-c.jpg",
             "html": "festival.html"
         },
         {
             "title": "Colorful",
-            "category_image": "https://raw.githubusercontent.com/nadishan2006/paradies-img/main/color%20full-c.jpeg",
+            "image": "https://raw.githubusercontent.com/nadishan2006/paradies-img/main/color%20full-c.jpeg",
             "html": "colorful.html"
         },
         {
             "title": "Fashion",
-            "category_image": "https://raw.githubusercontent.com/nadishan2006/paradies-img/main/fashion-c.jpeg",
+            "image": "https://raw.githubusercontent.com/nadishan2006/paradies-img/main/fashion-c.jpeg",
             "html": "fashion.html"
         }
         // Add more items as needed
