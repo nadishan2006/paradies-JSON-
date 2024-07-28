@@ -1,7 +1,7 @@
 {
     "items": [
         {
-            "image": "https://raw.githubusercontent.com/nadishan2006/sports-data/main/images/karathegirl.jpeg",
+            "image": "https://raw.githubusercontent.com/nadishan2006/sports-data/main/karathegirl.jpeg",
             "title": "Karate Girl",
             "category": "Sports",
             "description": "A white dress girl practicing karate.",
@@ -11,7 +11,7 @@
             "html_link": "paradise.html"
         },
         {
-            "image": "https://raw.githubusercontent.com/nadishan2006/sports-data/main/images/football.jpeg",
+            "image": "https://raw.githubusercontent.com/nadishan2006/sports-data/main/football.jpeg",
             "title": "Football",
             "category": "Sports",
             "description": "A football with a net.",
@@ -21,7 +21,7 @@
             "html_link": "paradise.html"
         },
         {
-            "image": "https://raw.githubusercontent.com/nadishan2006/sports-data/main/images/football%20(1).jpeg",
+            "image": "https://raw.githubusercontent.com/nadishan2006/sports-data/main/football%20(1).jpeg",
             "title": "Kick to Football",
             "category": "Sports",
             "description": "Hovering up and striking the football with the heel of the right foot.",
@@ -31,7 +31,7 @@
             "html_link": "paradise.html"
         },
         {
-            "image": "https://raw.githubusercontent.com/nadishan2006/sports-data/main/images/football1.jpeg",
+            "image": "https://raw.githubusercontent.com/nadishan2006/sports-data/main/football1.jpeg",
             "title": "Football Action",
             "category": "Sports",
             "description": "A football player in action.",
@@ -41,7 +41,7 @@
             "html_link": "paradise.html"
         },
         {
-            "image": "https://raw.githubusercontent.com/nadishan2006/sports-data/main/images/football2.jpeg",
+            "image": "https://raw.githubusercontent.com/nadishan2006/sports-data/main/football2.jpeg",
             "title": "Soccer Player",
             "category": "Sports",
             "description": "A soccer player on the field.",
@@ -51,7 +51,7 @@
             "html_link": "paradise.html"
         },
         {
-            "image": "https://raw.githubusercontent.com/nadishan2006/sports-data/main/images/football%203.jpeg",
+            "image": "https://raw.githubusercontent.com/nadishan2006/sports-data/main/football%203.jpeg",
             "title": "Football Moment",
             "category": "Sports",
             "description": "A significant moment in a football game.",
@@ -61,7 +61,7 @@
             "html_link": "paradise.html"
         },
         {
-            "image": "https://raw.githubusercontent.com/nadishan2006/sports-data/main/images/football%204.jpeg",
+            "image": "https://raw.githubusercontent.com/nadishan2006/sports-data/main/football%204.jpeg",
             "title": "Football Play",
             "category": "Sports",
             "description": "A player executing a play in football.",
@@ -71,7 +71,7 @@
             "html_link": "paradise.html"
         },
         {
-            "image": "https://raw.githubusercontent.com/nadishan2006/sports-data/main/images/football%20cr7.jpeg",
+            "image": "",
             "title": "CR7 Football",
             "category": "Sports",
             "description": "A moment featuring Cristiano Ronaldo (CR7).",
@@ -81,7 +81,7 @@
             "html_link": "paradise.html"
         },
         {
-            "image": "https://raw.githubusercontent.com/nadishan2006/sports-data/main/images/cr7.jpeg",
+            "image": "https://raw.githubusercontent.com/nadishan2006/sports-data/main/cr7.jpeg",
             "title": "Cristiano Ronaldo",
             "category": "Sports",
             "description": "A portrait of Cristiano Ronaldo.",
@@ -91,7 +91,7 @@
             "html_link": "paradise.html"
         },
         {
-            "image": "https://raw.githubusercontent.com/nadishan2006/sports-data/main/images/sri%20lanka%20cricket%20jpeg.jpg",
+            "image": "https://raw.githubusercontent.com/nadishan2006/sports-data/main/sri%20lanka%20cricket%20jpeg.jpg",
             "title": "Sri Lanka Cricket",
             "category": "Sports",
             "description": "Sri Lanka cricket team in action.",
@@ -101,7 +101,7 @@
             "html_link": "paradise.html"
         },
         {
-            "image": "https://raw.githubusercontent.com/nadishan2006/sports-data/main/images/sl%20cricket.jpeg",
+            "image": "https://raw.githubusercontent.com/nadishan2006/sports-data/main/sl%20cricket.jpeg",
             "title": "SL Cricket Match",
             "category": "Sports",
             "description": "A match featuring the Sri Lanka cricket team.",
@@ -111,7 +111,7 @@
             "html_link": "paradise.html"
         },
         {
-            "image": "https://raw.githubusercontent.com/nadishan2006/sports-data/main/images/sl%20cricket%20(1).jpeg",
+            "image": "https://raw.githubusercontent.com/nadishan2006/sports-data/main/sl%20cricket%20(1).jpeg",
             "title": "Cricket Game",
             "category": "Sports",
             "description": "A cricket game in progress.",
