@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Category Display</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            margin: 0;
+            padding: 0;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+        }
+        .container {
+            width: 90%;
+            max-width: 1200px;
+            margin-top: 20px;
+        }
+        .category {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: space-around;
+        }
+        .category-item {
+            background: #fff;
+            border-radius: 8px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+            margin: 10px;
+            width: 220px;
+            text-align: center;
+            overflow: hidden;
+            transition: transform 0.3s ease;
+        }
+        .category-item:hover {
+            transform: scale(1.05);
+        }
+        .category-item img {
+            width: 100%;
+            height: auto;
+        }
+        .category-item h3 {
+            margin: 10px 0;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Category Display</h1>
+        <div class="category" id="category-container"></div>
+    </div>
+
+    <script>
+        async function fetchCategoryData() {
+            try {
+                const response = await fetch('https://raw.githubusercontent.com/nadishan2006/paradies-JSON-/main/categorys.json');
+                const data = await response.json();
+                const container = document.getElementById('category-container');
+                
+                data.items.forEach(item => {
+                    const categoryItem = document.createElement('div');
+                    categoryItem.className = 'category-item';
+                    
+                    categoryItem.innerHTML = `
+                        <img src="${item.image}" alt="${item.title}">
+                        <h3>${item.title}</h3>
+                        <a href="${item.html}">View More</a>
+                    `;
+                    
+                    container.appendChild(categoryItem);
+                });
+            } catch (error) {
+                console.error('Error fetching data:', error);
+            }
+        }
+
+        fetchCategoryData();
+    </script>
+</body>
+</html>
